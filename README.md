@@ -1,4 +1,4 @@
-# 안녕하세요, 이우승입니다 👋
+# 안녕하세요, 이우승입니다 
 
 Python으로 **디스코드 봇과 웹앱**을 만들고, 주문받아 납품합니다.
 
@@ -20,5 +20,4 @@ Python · JavaScript · TypeScript · Kotlin · Java/JSP · MySQL · HTML/CSS
 ## 연락
 
 - 포트폴리오: https://10000sun.github.io/portfolio
-- 블로그: https://10000sun.tistory.com
 - 이메일: lws302@naver.com
