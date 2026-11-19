@@ -6,9 +6,9 @@ Python으로 **디스코드 봇과 웹앱**을 만들고, 주문받아 납품합
 
 | 프로젝트 | 설명 | 기술 |
 |---|---|---|
-| [bot-module](https://github.com/10000sun/bot-module) | 주문제작용 모듈형 디스코드 봇 프레임워크 (CI 포함) | Python, discord.py |
-| [maribot-core](https://github.com/10000sun/maribot-core) | 운영 중인 디스코드 경제 봇의 핵심 모듈 발췌본 | Python, pytest |
-| [maribot-demo](https://github.com/10000sun/maribot-demo) | 마리봇 명령어를 브라우저에서 체험하는 웹 데모 | Node.js, Express |
+| [maribot-core](https://github.com/10000sun/maribot-core) | 실제 운영 중인 디스코드 경제 봇(마리봇)의 코드 예시본 | Python, pytest |
+| [maribot-demo](https://github.com/10000sun/maribot-demo) | 마리봇을 브라우저에서 직접 써 볼 수 있는 시연 사이트 | Node.js, Express |
+| bot-module (비공개) | 주문제작·판매용 모듈형 디스코드 봇 프레임워크 — 문의 시 안내 | Python, discord.py |
 | [evas-memo](https://github.com/10000sun/evas-memo) | 실시간 공동 편집 메모 웹앱 | Python |
 | [dinnerpad](https://github.com/10000sun/dinnerpad) | 오프라인 PC용 런치패드 사운드보드 | JavaScript |
 | [walkytalky](https://github.com/10000sun/walkytalky) | 산책 시간 기반 왕복 경로 앱 | TypeScript, React Native |
